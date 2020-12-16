@@ -1170,7 +1170,7 @@ a:hover .wsb-media-gallery-caption {
   bottom: 1px;
   background-color: #474747;
   border: 1px solid #474747;
-  background-image: url(http://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-nav-arrows-sprt.png);
+  background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-nav-arrows-sprt.png);
   background-repeat: no-repeat;
 }
 .wsb-media-gallery-pagination-thumbs-left-arrow {
@@ -1222,7 +1222,7 @@ a:hover .wsb-media-gallery-caption {
   height: 42px;
   position: absolute;
   cursor: pointer;
-  background-image: url(http://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-arrows.png);
+  background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-arrows.png);
 }
 .wsb-media-gallery-arrows-left-arrow {
   background-position: 0 0;
@@ -1238,7 +1238,7 @@ a:hover .wsb-media-gallery-caption {
   min-width: 40px;
   position: absolute;
   cursor: pointer;
-  background-image: url(http://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-left-arrow.png);
+  background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-left-arrow.png);
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -1248,7 +1248,7 @@ a:hover .wsb-media-gallery-caption {
   min-width: 40px;
   position: absolute;
   cursor: pointer;
-  background-image: url(http://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-right-arrow.png);
+  background-image: url(https://img4.wsimg.com/wst/v7/WSB7_J_20151230_1420_gmaps-upg_8341/v1/images/wsb-slideshow-right-arrow.png);
   background-position: center center;
   background-repeat: no-repeat;
 }
